@@ -1,0 +1,8 @@
+<Suite name= "Suite" parallel= "false">
+<test name= "Test">
+<Classes>
+<class name= "com.dhana.us.Zomato"/>
+</Classes>
+</test>
+</Suite>
+
